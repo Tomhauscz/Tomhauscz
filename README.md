@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Tomhauscz
+- 👋 Hi, I’m Tomhaus (real name Tomáš Hák)
 - 👀 I’m interested in nanotechnology in microchip manufacturing, programing and AI.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Qt app disign an PySide6 library in Python
 
 <!---
 Tomhauscz/Tomhauscz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
