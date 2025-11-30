@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tomhaus (real name Tomáš Hák)
+- 👋 Hi, I’m Tomas aka Tomhaus
 - 👀 I’m interested in nanotechnology in microchip manufacturing, programing and AI.
 - 🌱 I’m currently learning Qt app design an PySide6 library in Python
 
